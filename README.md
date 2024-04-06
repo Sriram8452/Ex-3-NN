@@ -99,7 +99,8 @@ predict(w1,w2,test)
 ```
 
 ## Output:
-[image](https://github.com/Sriram8452/Ex-3-NN/assets/118708032/9f008ee4-ea1f-408c-9e3c-d2b42a1e5864)
+![image](https://github.com/Sriram8452/Ex-3-NN/assets/118708032/2805220a-7de9-4a39-95c3-3feb1c6ca8d5)
+
 
 ## Result:
 Thus, XOR classification problem can be solved using MLP in Python 
